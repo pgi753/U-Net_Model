@@ -8,7 +8,7 @@
 #
 ## Experiment environment
 ### 20 Channel, 2 Users(TDMA)
-![그림3](https://user-images.githubusercontent.com/65005179/175865770-b5ab0d17-9f73-4a0d-ac63-1e7f1aee01b2.gif){: width="50%" height="50%"}
+<img src="https://user-images.githubusercontent.com/65005179/175865770-b5ab0d17-9f73-4a0d-ac63-1e7f1aee01b2.gif" width="30%" height="30>
 #
 ## Data Set
 ![image](https://user-images.githubusercontent.com/65005179/175865153-dd138951-70ce-43ee-b755-daa3784d27f1.png)

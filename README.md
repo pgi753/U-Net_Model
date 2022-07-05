@@ -8,7 +8,7 @@
 
 ## Experiment environment
 ### 40 Channel, 4 Users(TDMA)
-At first, it was 20channel, 2BSS as shown in the video, but it was expanded to 40Channel, 4BSS for more complex situations.  
+At first, it was 20 channel, 2 BSS as shown in the video, but it was expanded to 40 Channel, 4 BSS for more complex situations.  
 
   <img src="https://user-images.githubusercontent.com/65005179/175867240-ba8afd8b-6cd3-4398-bfcf-912465bb1c30.gif" width="50%" height="50%"/>
 
